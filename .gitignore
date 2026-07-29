@@ -1,0 +1,17 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment files
+.env
+
+# Python cache, in case Python practice files are added
+__pycache__/
+*.py[cod]
